@@ -41,13 +41,5 @@
         "image": "images/balai-essuie-glace.png",
         "description": "Performances d’essuyage au top ! Longueur : 550 mm.",
         "disponibilite": true
-    },
-    {
-        "id": 6,
-        "nom": "courroie de distribution",
-        "prix": 69.10,
-        "image": "images/ampoule-boite-a-gants.png",
-        "description": "Performances.",
-        "disponibilite": true
     }
 ]
