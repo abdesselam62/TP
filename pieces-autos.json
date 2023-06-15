@@ -46,7 +46,7 @@
         "id": 6,
         "nom": "courroie de distribution",
         "prix": 69.10,
-        "image": "images",
+        "image": "images/ampoule-boite-a-gants.png",
         "description": "Performances.",
         "disponibilite": true
     }
